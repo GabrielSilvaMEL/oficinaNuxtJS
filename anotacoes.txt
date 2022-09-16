@@ -1,0 +1,23 @@
+comandos:
+node -v  //check version
+npx create-nuxt-app [nome]
+
+
+//java script é a linguagem mais usda por navegadores
+//typescript é o js typado
+
+axios//biblioteca front end
+pwa//
+content-git based headless cms//
+
+//linting tools checa os padrões no código
+
+testing framework/jest//checa o código para funconamento a longo prazo
+
+rendering mode/universal(ssr/ssg)//server side render //renderiza tudo no servidor e vai pro navegador prontas, o navegador só exibe
+                                 //static side generator// parte do side ja estava carregada
+single page app/ página unica
+
+.md//marking down
+
+O NUXT É UMA ABSTRAÇÃO ACIMA DO VUE
